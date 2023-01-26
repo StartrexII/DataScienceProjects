@@ -1,16 +1,16 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)    
-[3. Этапы работы над проектом](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
-[4. Результат](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Результат)    
-[5. Выводы](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Какой-кейс-решаем)    
+[3. Этапы работы над проектом](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Этапы-работы-над-проектом)  
+[4. Результаты](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Результаты)    
+[5. Выводы](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -27,7 +27,7 @@
 Учимся писать хороший код на python
 
 
-:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -36,19 +36,19 @@
 - Тестирование кода
 - Загрузка проекта на GitHub
 
-:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Результаты:
 В итоге наша программа угадывает число в среднем за 9 попыток на 1000 повторений
 
-:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Оглавление)
 
 
 ### Выводы:  
 Программа работает корректно, так как справляется с заданием эффективнее, чем требуется(угадывает число менее, чем за 20 попыток)
 
-:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StartrexII/sf_data_science/tree/main/project_0#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
