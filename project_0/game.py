@@ -32,7 +32,7 @@ def random_predict(number: int = 1) -> int:
 
 
 def score_games(random_predict) -> int:
-    """Average number of 10000 attemps
+    """Average number of 1000 attemps
 
     Args:
         random_predict ([type]): Guessing function
@@ -42,7 +42,7 @@ def score_games(random_predict) -> int:
     """
     count_lst = []
     np.random.seed(1) # Fix it for reproducibility
-    random_array = np.random.randint(1, 101, size=10000) # Made a list of numbers
+    random_array = np.random.randint(1, 101, size=1000) # Made a list of numbers
     
     for number in random_array:
         count_lst.append(random_predict(number))
