@@ -30,8 +30,8 @@ def score_games(random_predict):
     for number in random_array:
         count_lst.append(random_predict(number))
     score = np.mean(count_lst)
-    print(f'On average we guess the number in {score} attemps')
-    return score
+    print(f'On average we guess the number in {round(score)} attemps')
+    return round(score)
     
 if __name__ == '__main__':
 # Run 
