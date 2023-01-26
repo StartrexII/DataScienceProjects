@@ -27,6 +27,7 @@ def random_predict(number: int = 1) -> int:
             min_num = predict_number
         else:
             break # Exit the loop if guessed right
+        
     return count
 
 
