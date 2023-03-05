@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course](https://github.com/StartrexII/sf_dat
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/StartrexII/sf_data_science/tree/main/project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/StartrexII/sf_data_science/tree/main/project_0 'GitHub Link')
 * [Проект 1.]()
 * [Проект 2.]()
 
