@@ -68,7 +68,7 @@
 ## Установка проекта
 
 * ```
-    git clone https://github.com/SkillfactoryDS/DataCleaningProject
+    git clone https://github.com/StartrexII/DataScienceProjects
     ```
 * Открыть директорию  `project_2/`  
                              
