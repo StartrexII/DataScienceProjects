@@ -62,6 +62,8 @@
 Вся информация о работе представлена в jupyter-ноутбуке project_EDA.ipynb.
 Для запуска кода необходимо скачать исходный датасет (сделать это можно [здесь](https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view 'Google Drive link')) и установить его в папку `data/`.
 
+Помимо этого можно ознакомиться [с результами промежуточных экспериментов](https://www.comet.com/startrexii/hotelsscoreprediction/a4700596a3d444278b2524e2ed5708d9 'Comet ML') по этому проекту. Описание изменений в данных представлено в разделе **Text** каждого эксперимента.
+
 ## Авторы
 
 * [Егор Орлов](https://vk.com/liquidlogic)
